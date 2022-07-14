@@ -1,3 +1,8 @@
+Cloundfront domain: [du99urd8rf5x0.cloudfront.net](https://du99urd8rf5x0.cloudfront.net/)
+
+S3 website: [http://games-shop-react-redux-cloudfront.s3-website-us-east-1.amazonaws.com/](http://games-shop-react-redux-cloudfront.s3-website-us-east-1.amazonaws.com/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
